@@ -32,8 +32,8 @@ export default function Home() {
           className=" my-5"
         />
         <div className="w-full px-4 ">
-          <p className="text-start font-bold text-2xl">Perfume</p>
-          <p className="text-start font-medium">Rs:599</p>
+          <p className="text-start font-bold text-2xl">Bag</p>
+          <p className="text-start font-medium">Rs:2,599</p>
         </div>
         
         <button className="py-2 px-2 sm:px:8 md:px-9 m-3 rounded bg-blue-400 shadow-lg shadow-blue-500/50 hover:scale-95">
@@ -51,8 +51,8 @@ export default function Home() {
           height={300}
         />
         <div className="w-full px-4">
-          <p className="text-start font-bold text-2xl">Perfume</p>
-          <p className="text-start font-medium">Rs:599</p>
+          <p className="text-start font-bold text-2xl">Eye Liner</p>
+          <p className="text-start font-medium">Rs:699</p>
         </div>
         <button className="py-2 px-2 sm:px:8 md:px-9 m-3 rounded bg-blue-400 shadow-lg shadow-blue-500/50 hover:scale-95">
           Buy Now
